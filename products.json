@@ -1,0 +1,3202 @@
+[
+    {
+        "product_id": "FF001",
+        "name": "Spicy Fusion Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with classic taste",
+        "ingredients": [
+            "cheese",
+            "bbq sauce",
+            "garlic bread",
+            "jalapeno"
+        ],
+        "price": 12.19,
+        "calories": 344,
+        "prep_time": "7 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "vegan"
+        ],
+        "mood_tags": [
+            "comfort",
+            "adventurous"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 58,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "Image of Burgers with spice"
+    },
+    {
+        "product_id": "FF002",
+        "name": "Crispy Fusion Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with fusion flavors",
+        "ingredients": [
+            "beef",
+            "cheese",
+            "mayo",
+            "jalapeno"
+        ],
+        "price": 9.65,
+        "calories": 308,
+        "prep_time": "5 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 71,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "Image of Burgers with spice"
+    },
+    {
+        "product_id": "FF003",
+        "name": "Fusion Classic Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with classic taste",
+        "ingredients": [
+            "garlic bread",
+            "cheese",
+            "tomato",
+            "lettuce"
+        ],
+        "price": 18.48,
+        "calories": 322,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "vegan",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "quick",
+            "adventurous"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 62,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "Image of Burgers with fusion style"
+    },
+    {
+        "product_id": "FF004",
+        "name": "Crispy Classic Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with unique toppings",
+        "ingredients": [
+            "chicken",
+            "garlic bread",
+            "tomato",
+            "beef"
+        ],
+        "price": 17.42,
+        "calories": 563,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "fusion",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "healthy",
+            "quick"
+        ],
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "popularity_score": 81,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "Image of Burgers with cheese"
+    },
+    {
+        "product_id": "FF005",
+        "name": "Fusion Fusion Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with fusion flavors",
+        "ingredients": [
+            "chicken",
+            "cheese",
+            "bbq sauce",
+            "tomato"
+        ],
+        "price": 15.73,
+        "calories": 739,
+        "prep_time": "10 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "fusion"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "quick"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 91,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "Image of Burgers with spice"
+    },
+    {
+        "product_id": "FF006",
+        "name": "Crispy Classic Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with classic taste",
+        "ingredients": [
+            "bbq sauce",
+            "chicken",
+            "beef",
+            "garlic bread"
+        ],
+        "price": 11.46,
+        "calories": 538,
+        "prep_time": "9 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "soy"
+        ],
+        "popularity_score": 79,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "Image of Burgers with cheese"
+    },
+    {
+        "product_id": "FF007",
+        "name": "Cheesy Fusion Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with fusion flavors",
+        "ingredients": [
+            "bbq sauce",
+            "onion",
+            "cheese",
+            "chicken"
+        ],
+        "price": 14.57,
+        "calories": 221,
+        "prep_time": "9 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "adventurous"
+        ],
+        "allergens": [
+            "soy",
+            "nuts"
+        ],
+        "popularity_score": 73,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "Image of Burgers with fusion style"
+    },
+    {
+        "product_id": "FF008",
+        "name": "Crispy Vegetarian Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with classic taste",
+        "ingredients": [
+            "garlic bread",
+            "cheese",
+            "mayo",
+            "chicken"
+        ],
+        "price": 11.71,
+        "calories": 363,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "fusion",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "comfort",
+            "quick"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 98,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "Image of Burgers with fusion style"
+    },
+    {
+        "product_id": "FF009",
+        "name": "Crispy Classic Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with classic taste",
+        "ingredients": [
+            "cheese",
+            "chicken",
+            "bbq sauce",
+            "jalapeno"
+        ],
+        "price": 10.08,
+        "calories": 344,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 67,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "Image of Burgers with spice"
+    },
+    {
+        "product_id": "FF010",
+        "name": "Classic Vegetarian Burger",
+        "category": "Burgers",
+        "description": "A delicious Burgers with classic taste",
+        "ingredients": [
+            "beef",
+            "mayo",
+            "bbq sauce",
+            "chicken"
+        ],
+        "price": 5.23,
+        "calories": 408,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "spicy"
+        ],
+        "mood_tags": [
+            "comfort",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 60,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "Image of Burgers with cheese"
+    },
+    {
+        "product_id": "FF011",
+        "name": "Cheesy Personal Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with fusion flavors",
+        "ingredients": [
+            "mayo",
+            "cheese",
+            "jalapeno",
+            "beef"
+        ],
+        "price": 11.5,
+        "calories": 606,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "comfort",
+            "adventurous"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 67,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "Image of Pizza with cheese"
+    },
+    {
+        "product_id": "FF012",
+        "name": "Crispy Traditional Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with classic taste",
+        "ingredients": [
+            "tomato",
+            "beef",
+            "cheese",
+            "lettuce"
+        ],
+        "price": 6.17,
+        "calories": 391,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "vegan",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "quick",
+            "adventurous"
+        ],
+        "allergens": [
+            "soy",
+            "gluten"
+        ],
+        "popularity_score": 85,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "Image of Pizza with fusion style"
+    },
+    {
+        "product_id": "FF013",
+        "name": "Classic Traditional Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with fusion flavors",
+        "ingredients": [
+            "tomato",
+            "cheese",
+            "onion",
+            "jalapeno"
+        ],
+        "price": 19.64,
+        "calories": 752,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "fusion"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "quick"
+        ],
+        "allergens": [
+            "soy",
+            "nuts"
+        ],
+        "popularity_score": 64,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "Image of Pizza with spice"
+    },
+    {
+        "product_id": "FF014",
+        "name": "Classic Traditional Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with fusion flavors",
+        "ingredients": [
+            "cheese",
+            "beef",
+            "bbq sauce",
+            "jalapeno"
+        ],
+        "price": 14.83,
+        "calories": 256,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "fusion",
+            "spicy"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "soy"
+        ],
+        "popularity_score": 90,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 10,
+        "image_prompt": "Image of Pizza with spice"
+    },
+    {
+        "product_id": "FF015",
+        "name": "Fusion Personal Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with unique toppings",
+        "ingredients": [
+            "beef",
+            "lettuce",
+            "garlic bread",
+            "chicken"
+        ],
+        "price": 13.03,
+        "calories": 678,
+        "prep_time": "9 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "quick"
+        ],
+        "allergens": [
+            "soy",
+            "gluten"
+        ],
+        "popularity_score": 76,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "Image of Pizza with fusion style"
+    },
+    {
+        "product_id": "FF016",
+        "name": "Spicy Gourmet Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with fusion flavors",
+        "ingredients": [
+            "onion",
+            "garlic bread",
+            "lettuce",
+            "jalapeno"
+        ],
+        "price": 16.83,
+        "calories": 340,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "spicy"
+        ],
+        "mood_tags": [
+            "healthy",
+            "quick"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 89,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "Image of Pizza with spice"
+    },
+    {
+        "product_id": "FF017",
+        "name": "Fusion Traditional Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with fusion flavors",
+        "ingredients": [
+            "chicken",
+            "mayo",
+            "onion",
+            "cheese"
+        ],
+        "price": 9.6,
+        "calories": 325,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "fusion",
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 70,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 7,
+        "image_prompt": "Image of Pizza with cheese"
+    },
+    {
+        "product_id": "FF018",
+        "name": "Classic Gourmet Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with fusion flavors",
+        "ingredients": [
+            "onion",
+            "chicken",
+            "tomato",
+            "lettuce"
+        ],
+        "price": 10.2,
+        "calories": 537,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 64,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "Image of Pizza with fusion style"
+    },
+    {
+        "product_id": "FF019",
+        "name": "Spicy Gourmet Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with classic taste",
+        "ingredients": [
+            "beef",
+            "garlic bread",
+            "onion",
+            "bbq sauce"
+        ],
+        "price": 9.38,
+        "calories": 569,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 74,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "Image of Pizza with spice"
+    },
+    {
+        "product_id": "FF020",
+        "name": "Crispy Gourmet Pizz",
+        "category": "Pizza",
+        "description": "A delicious Pizza with unique toppings",
+        "ingredients": [
+            "jalapeno",
+            "beef",
+            "mayo",
+            "chicken"
+        ],
+        "price": 8.09,
+        "calories": 653,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "spicy"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [
+            "gluten",
+            "soy"
+        ],
+        "popularity_score": 81,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "Image of Pizza with fusion style"
+    },
+    {
+        "product_id": "FF021",
+        "name": "Crispy Wings Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with classic taste",
+        "ingredients": [
+            "onion",
+            "chicken",
+            "cheese",
+            "tomato"
+        ],
+        "price": 11.53,
+        "calories": 780,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "comfort",
+            "healthy"
+        ],
+        "allergens": [
+            "gluten",
+            "soy"
+        ],
+        "popularity_score": 50,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 8,
+        "image_prompt": "Image of Fried Chicken with spice"
+    },
+    {
+        "product_id": "FF022",
+        "name": "Classic Tenders Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with fusion flavors",
+        "ingredients": [
+            "chicken",
+            "beef",
+            "cheese",
+            "garlic bread"
+        ],
+        "price": 5.52,
+        "calories": 793,
+        "prep_time": "8 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "comfort",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 64,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "Image of Fried Chicken with fusion style"
+    },
+    {
+        "product_id": "FF023",
+        "name": "Cheesy Tenders Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with unique toppings",
+        "ingredients": [
+            "garlic bread",
+            "beef",
+            "tomato",
+            "onion"
+        ],
+        "price": 13.26,
+        "calories": 468,
+        "prep_time": "7 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "spicy"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 53,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "Image of Fried Chicken with cheese"
+    },
+    {
+        "product_id": "FF024",
+        "name": "Fusion Wings Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with unique toppings",
+        "ingredients": [
+            "lettuce",
+            "garlic bread",
+            "tomato",
+            "beef"
+        ],
+        "price": 14.63,
+        "calories": 533,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "vegan",
+            "fusion"
+        ],
+        "mood_tags": [
+            "comfort",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 81,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "Image of Fried Chicken with cheese"
+    },
+    {
+        "product_id": "FF025",
+        "name": "Fusion Sandwiches Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with classic taste",
+        "ingredients": [
+            "lettuce",
+            "cheese",
+            "mayo",
+            "tomato"
+        ],
+        "price": 6.52,
+        "calories": 273,
+        "prep_time": "7 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 61,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "Image of Fried Chicken with fusion style"
+    },
+    {
+        "product_id": "FF026",
+        "name": "Spicy Tenders Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with unique toppings",
+        "ingredients": [
+            "tomato",
+            "jalapeno",
+            "onion",
+            "chicken"
+        ],
+        "price": 16.72,
+        "calories": 359,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "spicy"
+        ],
+        "mood_tags": [
+            "quick",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 52,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "Image of Fried Chicken with spice"
+    },
+    {
+        "product_id": "FF027",
+        "name": "Fusion Tenders Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with unique toppings",
+        "ingredients": [
+            "garlic bread",
+            "cheese",
+            "mayo",
+            "chicken"
+        ],
+        "price": 14.25,
+        "calories": 584,
+        "prep_time": "5 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "vegan"
+        ],
+        "mood_tags": [
+            "comfort",
+            "quick"
+        ],
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "popularity_score": 76,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "Image of Fried Chicken with spice"
+    },
+    {
+        "product_id": "FF028",
+        "name": "Crispy Tenders Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with unique toppings",
+        "ingredients": [
+            "garlic bread",
+            "onion",
+            "jalapeno",
+            "mayo"
+        ],
+        "price": 11.14,
+        "calories": 531,
+        "prep_time": "15 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "adventurous"
+        ],
+        "allergens": [
+            "gluten",
+            "soy"
+        ],
+        "popularity_score": 89,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "Image of Fried Chicken with fusion style"
+    },
+    {
+        "product_id": "FF029",
+        "name": "Spicy Tenders Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with fusion flavors",
+        "ingredients": [
+            "cheese",
+            "onion",
+            "tomato",
+            "mayo"
+        ],
+        "price": 11.47,
+        "calories": 465,
+        "prep_time": "15 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "fusion"
+        ],
+        "mood_tags": [
+            "quick",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 69,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "Image of Fried Chicken with spice"
+    },
+    {
+        "product_id": "FF030",
+        "name": "Fusion Tenders Fried Chicke",
+        "category": "Fried Chicken",
+        "description": "A delicious Fried Chicken with classic taste",
+        "ingredients": [
+            "cheese",
+            "tomato",
+            "mayo",
+            "chicken"
+        ],
+        "price": 14.73,
+        "calories": 644,
+        "prep_time": "10 mins",
+        "dietary_tags": [
+            "fusion",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "quick",
+            "comfort"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 99,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "Image of Fried Chicken with fusion style"
+    },
+    {
+        "product_id": "FF031",
+        "name": "Crispy Fusion Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with unique toppings",
+        "ingredients": [
+            "garlic bread",
+            "bbq sauce",
+            "lettuce",
+            "cheese"
+        ],
+        "price": 8.27,
+        "calories": 508,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 53,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "Image of Tacos & Wraps with cheese"
+    },
+    {
+        "product_id": "FF032",
+        "name": "Crispy Mexican Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with classic taste",
+        "ingredients": [
+            "cheese",
+            "chicken",
+            "lettuce",
+            "garlic bread"
+        ],
+        "price": 11.2,
+        "calories": 636,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "healthy",
+            "adventurous"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 51,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 8,
+        "image_prompt": "Image of Tacos & Wraps with fusion style"
+    },
+    {
+        "product_id": "FF033",
+        "name": "Cheesy Healthy Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with classic taste",
+        "ingredients": [
+            "mayo",
+            "onion",
+            "beef",
+            "tomato"
+        ],
+        "price": 17.12,
+        "calories": 544,
+        "prep_time": "15 mins",
+        "dietary_tags": [
+            "fusion",
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "adventurous"
+        ],
+        "allergens": [
+            "soy",
+            "gluten"
+        ],
+        "popularity_score": 52,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "Image of Tacos & Wraps with spice"
+    },
+    {
+        "product_id": "FF034",
+        "name": "Fusion Mexican Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with classic taste",
+        "ingredients": [
+            "mayo",
+            "beef",
+            "onion",
+            "tomato"
+        ],
+        "price": 14.16,
+        "calories": 398,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "comfort"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 67,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "Image of Tacos & Wraps with spice"
+    },
+    {
+        "product_id": "FF035",
+        "name": "Spicy Mexican Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with unique toppings",
+        "ingredients": [
+            "mayo",
+            "jalapeno",
+            "onion",
+            "chicken"
+        ],
+        "price": 12.45,
+        "calories": 668,
+        "prep_time": "15 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 78,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "Image of Tacos & Wraps with cheese"
+    },
+    {
+        "product_id": "FF036",
+        "name": "Spicy Mexican Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with fusion flavors",
+        "ingredients": [
+            "lettuce",
+            "jalapeno",
+            "cheese",
+            "tomato"
+        ],
+        "price": 8.87,
+        "calories": 800,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegan"
+        ],
+        "mood_tags": [
+            "comfort",
+            "adventurous"
+        ],
+        "allergens": [
+            "gluten",
+            "soy"
+        ],
+        "popularity_score": 52,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "Image of Tacos & Wraps with fusion style"
+    },
+    {
+        "product_id": "FF037",
+        "name": "Crispy Healthy Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with unique toppings",
+        "ingredients": [
+            "garlic bread",
+            "tomato",
+            "bbq sauce",
+            "chicken"
+        ],
+        "price": 8.63,
+        "calories": 530,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "vegan",
+            "fusion"
+        ],
+        "mood_tags": [
+            "healthy",
+            "quick"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 51,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 3,
+        "image_prompt": "Image of Tacos & Wraps with spice"
+    },
+    {
+        "product_id": "FF038",
+        "name": "Classic Fusion Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with classic taste",
+        "ingredients": [
+            "jalapeno",
+            "cheese",
+            "garlic bread",
+            "beef"
+        ],
+        "price": 8.58,
+        "calories": 259,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 92,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "Image of Tacos & Wraps with fusion style"
+    },
+    {
+        "product_id": "FF039",
+        "name": "Fusion Healthy Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with fusion flavors",
+        "ingredients": [
+            "garlic bread",
+            "onion",
+            "mayo",
+            "chicken"
+        ],
+        "price": 14.69,
+        "calories": 329,
+        "prep_time": "5 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "fusion"
+        ],
+        "mood_tags": [
+            "comfort",
+            "quick"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 73,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "Image of Tacos & Wraps with spice"
+    },
+    {
+        "product_id": "FF040",
+        "name": "Spicy Fusion Tacos & Wrap",
+        "category": "Tacos & Wraps",
+        "description": "A delicious Tacos & Wraps with classic taste",
+        "ingredients": [
+            "lettuce",
+            "bbq sauce",
+            "chicken",
+            "mayo"
+        ],
+        "price": 9.5,
+        "calories": 384,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "spicy",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 79,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "Image of Tacos & Wraps with spice"
+    },
+    {
+        "product_id": "FF041",
+        "name": "Cheesy Fries Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with fusion flavors",
+        "ingredients": [
+            "bbq sauce",
+            "mayo",
+            "lettuce",
+            "garlic bread"
+        ],
+        "price": 10.71,
+        "calories": 638,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 99,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "Image of Sides & Appetizers with fusion style"
+    },
+    {
+        "product_id": "FF042",
+        "name": "Fusion Fries Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with classic taste",
+        "ingredients": [
+            "jalapeno",
+            "onion",
+            "tomato",
+            "chicken"
+        ],
+        "price": 10.02,
+        "calories": 581,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "vegan"
+        ],
+        "mood_tags": [
+            "comfort",
+            "quick"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 79,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 7,
+        "image_prompt": "Image of Sides & Appetizers with spice"
+    },
+    {
+        "product_id": "FF043",
+        "name": "Cheesy Nuggets Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with fusion flavors",
+        "ingredients": [
+            "garlic bread",
+            "chicken",
+            "jalapeno",
+            "cheese"
+        ],
+        "price": 18.67,
+        "calories": 547,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "vegan",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "quick"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 83,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "Image of Sides & Appetizers with spice"
+    },
+    {
+        "product_id": "FF044",
+        "name": "Cheesy Fries Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with classic taste",
+        "ingredients": [
+            "onion",
+            "beef",
+            "tomato",
+            "bbq sauce"
+        ],
+        "price": 13.07,
+        "calories": 754,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "vegan",
+            "spicy"
+        ],
+        "mood_tags": [
+            "quick",
+            "indulgent"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 94,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "Image of Sides & Appetizers with spice"
+    },
+    {
+        "product_id": "FF045",
+        "name": "Fusion Fries Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with classic taste",
+        "ingredients": [
+            "chicken",
+            "tomato",
+            "lettuce",
+            "cheese"
+        ],
+        "price": 13.71,
+        "calories": 258,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "spicy"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 50,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "Image of Sides & Appetizers with cheese"
+    },
+    {
+        "product_id": "FF046",
+        "name": "Fusion Fries Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with unique toppings",
+        "ingredients": [
+            "mayo",
+            "cheese",
+            "bbq sauce",
+            "chicken"
+        ],
+        "price": 12.83,
+        "calories": 800,
+        "prep_time": "7 mins",
+        "dietary_tags": [
+            "fusion",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "quick",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 75,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 10,
+        "image_prompt": "Image of Sides & Appetizers with fusion style"
+    },
+    {
+        "product_id": "FF047",
+        "name": "Crispy Onion Rings Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with classic taste",
+        "ingredients": [
+            "mayo",
+            "beef",
+            "lettuce",
+            "garlic bread"
+        ],
+        "price": 16.16,
+        "calories": 345,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "fusion",
+            "spicy"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 83,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "Image of Sides & Appetizers with spice"
+    },
+    {
+        "product_id": "FF048",
+        "name": "Spicy Fries Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with unique toppings",
+        "ingredients": [
+            "onion",
+            "lettuce",
+            "jalapeno",
+            "chicken"
+        ],
+        "price": 16.27,
+        "calories": 242,
+        "prep_time": "10 mins",
+        "dietary_tags": [
+            "spicy",
+            "fusion"
+        ],
+        "mood_tags": [
+            "comfort",
+            "adventurous"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 85,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "Image of Sides & Appetizers with spice"
+    },
+    {
+        "product_id": "FF049",
+        "name": "Classic Onion Rings Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with fusion flavors",
+        "ingredients": [
+            "lettuce",
+            "beef",
+            "jalapeno",
+            "cheese"
+        ],
+        "price": 5.71,
+        "calories": 537,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "popularity_score": 56,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "Image of Sides & Appetizers with spice"
+    },
+    {
+        "product_id": "FF050",
+        "name": "Crispy Nuggets Sides & Appetizer",
+        "category": "Sides & Appetizers",
+        "description": "A delicious Sides & Appetizers with unique toppings",
+        "ingredients": [
+            "cheese",
+            "mayo",
+            "jalapeno",
+            "tomato"
+        ],
+        "price": 10.16,
+        "calories": 609,
+        "prep_time": "8 mins",
+        "dietary_tags": [
+            "fusion",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "quick"
+        ],
+        "allergens": [
+            "soy",
+            "gluten"
+        ],
+        "popularity_score": 68,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "Image of Sides & Appetizers with cheese"
+    },
+    {
+        "product_id": "FF051",
+        "name": "Spicy Shakes Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with unique toppings",
+        "ingredients": [
+            "cheese",
+            "onion",
+            "mayo",
+            "jalapeno"
+        ],
+        "price": 17.55,
+        "calories": 583,
+        "prep_time": "5 mins",
+        "dietary_tags": [
+            "vegan",
+            "fusion"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 50,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "Image of Beverages with spice"
+    },
+    {
+        "product_id": "FF052",
+        "name": "Classic Specialty Drinks Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with fusion flavors",
+        "ingredients": [
+            "garlic bread",
+            "mayo",
+            "chicken",
+            "beef"
+        ],
+        "price": 9.57,
+        "calories": 605,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "vegan"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 91,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "Image of Beverages with cheese"
+    },
+    {
+        "product_id": "FF053",
+        "name": "Spicy Sodas Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with classic taste",
+        "ingredients": [
+            "lettuce",
+            "onion",
+            "tomato",
+            "chicken"
+        ],
+        "price": 15.93,
+        "calories": 336,
+        "prep_time": "7 mins",
+        "dietary_tags": [
+            "vegan",
+            "spicy"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "quick"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 95,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "Image of Beverages with fusion style"
+    },
+    {
+        "product_id": "FF054",
+        "name": "Crispy Shakes Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with classic taste",
+        "ingredients": [
+            "garlic bread",
+            "bbq sauce",
+            "lettuce",
+            "jalapeno"
+        ],
+        "price": 15.96,
+        "calories": 416,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "quick"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 59,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "Image of Beverages with cheese"
+    },
+    {
+        "product_id": "FF055",
+        "name": "Crispy Shakes Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with fusion flavors",
+        "ingredients": [
+            "lettuce",
+            "mayo",
+            "tomato",
+            "jalapeno"
+        ],
+        "price": 19.88,
+        "calories": 454,
+        "prep_time": "10 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 97,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 2,
+        "image_prompt": "Image of Beverages with cheese"
+    },
+    {
+        "product_id": "FF056",
+        "name": "Fusion Shakes Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with unique toppings",
+        "ingredients": [
+            "mayo",
+            "jalapeno",
+            "beef",
+            "garlic bread"
+        ],
+        "price": 6.19,
+        "calories": 753,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "fusion",
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 52,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 10,
+        "image_prompt": "Image of Beverages with fusion style"
+    },
+    {
+        "product_id": "FF057",
+        "name": "Classic Sodas Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with unique toppings",
+        "ingredients": [
+            "onion",
+            "cheese",
+            "chicken",
+            "bbq sauce"
+        ],
+        "price": 11.44,
+        "calories": 240,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "fusion"
+        ],
+        "mood_tags": [
+            "healthy",
+            "adventurous"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 88,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "Image of Beverages with cheese"
+    },
+    {
+        "product_id": "FF058",
+        "name": "Spicy Shakes Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with unique toppings",
+        "ingredients": [
+            "bbq sauce",
+            "cheese",
+            "onion",
+            "mayo"
+        ],
+        "price": 13.57,
+        "calories": 356,
+        "prep_time": "15 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 77,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 7,
+        "image_prompt": "Image of Beverages with cheese"
+    },
+    {
+        "product_id": "FF059",
+        "name": "Spicy Sodas Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with classic taste",
+        "ingredients": [
+            "beef",
+            "jalapeno",
+            "garlic bread",
+            "lettuce"
+        ],
+        "price": 19.9,
+        "calories": 487,
+        "prep_time": "5 mins",
+        "dietary_tags": [
+            "spicy",
+            "fusion"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [
+            "gluten",
+            "soy"
+        ],
+        "popularity_score": 89,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "Image of Beverages with spice"
+    },
+    {
+        "product_id": "FF060",
+        "name": "Cheesy Sodas Beverage",
+        "category": "Beverages",
+        "description": "A delicious Beverages with fusion flavors",
+        "ingredients": [
+            "tomato",
+            "cheese",
+            "lettuce",
+            "mayo"
+        ],
+        "price": 5.69,
+        "calories": 511,
+        "prep_time": "15 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "quick"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 62,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "Image of Beverages with cheese"
+    },
+    {
+        "product_id": "FF061",
+        "name": "Spicy Pastries Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with classic taste",
+        "ingredients": [
+            "onion",
+            "beef",
+            "cheese",
+            "mayo"
+        ],
+        "price": 12.76,
+        "calories": 503,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 85,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 10,
+        "image_prompt": "Image of Desserts with fusion style"
+    },
+    {
+        "product_id": "FF062",
+        "name": "Fusion Pastries Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with unique toppings",
+        "ingredients": [
+            "chicken",
+            "garlic bread",
+            "jalapeno",
+            "beef"
+        ],
+        "price": 12.96,
+        "calories": 474,
+        "prep_time": "8 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "spicy"
+        ],
+        "mood_tags": [
+            "quick",
+            "comfort"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 55,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "Image of Desserts with cheese"
+    },
+    {
+        "product_id": "FF063",
+        "name": "Fusion Cookies Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with unique toppings",
+        "ingredients": [
+            "bbq sauce",
+            "beef",
+            "onion",
+            "garlic bread"
+        ],
+        "price": 17.83,
+        "calories": 455,
+        "prep_time": "8 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegan"
+        ],
+        "mood_tags": [
+            "quick",
+            "healthy"
+        ],
+        "allergens": [
+            "soy",
+            "nuts"
+        ],
+        "popularity_score": 65,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "Image of Desserts with cheese"
+    },
+    {
+        "product_id": "FF064",
+        "name": "Fusion Ice Cream Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with unique toppings",
+        "ingredients": [
+            "bbq sauce",
+            "garlic bread",
+            "beef",
+            "chicken"
+        ],
+        "price": 18.88,
+        "calories": 627,
+        "prep_time": "8 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "quick",
+            "adventurous"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 86,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "Image of Desserts with spice"
+    },
+    {
+        "product_id": "FF065",
+        "name": "Classic Pastries Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with classic taste",
+        "ingredients": [
+            "cheese",
+            "bbq sauce",
+            "jalapeno",
+            "lettuce"
+        ],
+        "price": 18.87,
+        "calories": 202,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "fusion",
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "indulgent"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 50,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "Image of Desserts with cheese"
+    },
+    {
+        "product_id": "FF066",
+        "name": "Fusion Pastries Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with fusion flavors",
+        "ingredients": [
+            "tomato",
+            "beef",
+            "garlic bread",
+            "lettuce"
+        ],
+        "price": 10.92,
+        "calories": 320,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "vegan",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 74,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "Image of Desserts with spice"
+    },
+    {
+        "product_id": "FF067",
+        "name": "Crispy Ice Cream Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with fusion flavors",
+        "ingredients": [
+            "mayo",
+            "onion",
+            "lettuce",
+            "cheese"
+        ],
+        "price": 18.03,
+        "calories": 638,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "quick",
+            "healthy"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 71,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "Image of Desserts with spice"
+    },
+    {
+        "product_id": "FF068",
+        "name": "Fusion Cookies Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with classic taste",
+        "ingredients": [
+            "bbq sauce",
+            "jalapeno",
+            "garlic bread",
+            "chicken"
+        ],
+        "price": 13.53,
+        "calories": 275,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "vegan",
+            "fusion"
+        ],
+        "mood_tags": [
+            "quick",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "dairy"
+        ],
+        "popularity_score": 87,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "Image of Desserts with fusion style"
+    },
+    {
+        "product_id": "FF069",
+        "name": "Classic Cookies Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with fusion flavors",
+        "ingredients": [
+            "garlic bread",
+            "jalapeno",
+            "beef",
+            "lettuce"
+        ],
+        "price": 5.26,
+        "calories": 800,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "vegan",
+            "spicy"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 74,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "Image of Desserts with cheese"
+    },
+    {
+        "product_id": "FF070",
+        "name": "Classic Cookies Dessert",
+        "category": "Desserts",
+        "description": "A delicious Desserts with fusion flavors",
+        "ingredients": [
+            "mayo",
+            "tomato",
+            "jalapeno",
+            "chicken"
+        ],
+        "price": 7.23,
+        "calories": 640,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "vegan",
+            "fusion"
+        ],
+        "mood_tags": [
+            "healthy",
+            "comfort"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 67,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "Image of Desserts with fusion style"
+    },
+    {
+        "product_id": "FF071",
+        "name": "Fusion Low-Carb Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with fusion flavors",
+        "ingredients": [
+            "beef",
+            "tomato",
+            "chicken",
+            "jalapeno"
+        ],
+        "price": 19.42,
+        "calories": 214,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "spicy"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 80,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "Image of Salads & Healthy Options with spice"
+    },
+    {
+        "product_id": "FF072",
+        "name": "Classic Low-Carb Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with fusion flavors",
+        "ingredients": [
+            "lettuce",
+            "garlic bread",
+            "jalapeno",
+            "mayo"
+        ],
+        "price": 16.98,
+        "calories": 266,
+        "prep_time": "10 mins",
+        "dietary_tags": [
+            "spicy",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "comfort"
+        ],
+        "allergens": [
+            "soy",
+            "nuts"
+        ],
+        "popularity_score": 99,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "Image of Salads & Healthy Options with spice"
+    },
+    {
+        "product_id": "FF073",
+        "name": "Cheesy Protein Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with classic taste",
+        "ingredients": [
+            "garlic bread",
+            "lettuce",
+            "beef",
+            "jalapeno"
+        ],
+        "price": 15.39,
+        "calories": 418,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "soy",
+            "gluten"
+        ],
+        "popularity_score": 69,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "Image of Salads & Healthy Options with fusion style"
+    },
+    {
+        "product_id": "FF074",
+        "name": "Fusion Green Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with unique toppings",
+        "ingredients": [
+            "onion",
+            "garlic bread",
+            "tomato",
+            "jalapeno"
+        ],
+        "price": 13.12,
+        "calories": 641,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegan"
+        ],
+        "mood_tags": [
+            "quick",
+            "indulgent"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 58,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 6,
+        "image_prompt": "Image of Salads & Healthy Options with spice"
+    },
+    {
+        "product_id": "FF075",
+        "name": "Crispy Low-Carb Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with fusion flavors",
+        "ingredients": [
+            "cheese",
+            "beef",
+            "chicken",
+            "mayo"
+        ],
+        "price": 5.92,
+        "calories": 530,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "quick",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 69,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 5,
+        "image_prompt": "Image of Salads & Healthy Options with cheese"
+    },
+    {
+        "product_id": "FF076",
+        "name": "Cheesy Green Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with fusion flavors",
+        "ingredients": [
+            "tomato",
+            "onion",
+            "mayo",
+            "jalapeno"
+        ],
+        "price": 15.22,
+        "calories": 294,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "fusion",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "comfort",
+            "quick"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 72,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "Image of Salads & Healthy Options with cheese"
+    },
+    {
+        "product_id": "FF077",
+        "name": "Fusion Low-Carb Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with fusion flavors",
+        "ingredients": [
+            "jalapeno",
+            "beef",
+            "garlic bread",
+            "chicken"
+        ],
+        "price": 19.4,
+        "calories": 742,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "spicy",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 60,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 7,
+        "image_prompt": "Image of Salads & Healthy Options with cheese"
+    },
+    {
+        "product_id": "FF078",
+        "name": "Fusion Low-Carb Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with fusion flavors",
+        "ingredients": [
+            "cheese",
+            "chicken",
+            "mayo",
+            "garlic bread"
+        ],
+        "price": 8.12,
+        "calories": 354,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "quick"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 81,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "Image of Salads & Healthy Options with spice"
+    },
+    {
+        "product_id": "FF079",
+        "name": "Spicy Green Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with unique toppings",
+        "ingredients": [
+            "beef",
+            "chicken",
+            "tomato",
+            "cheese"
+        ],
+        "price": 5.82,
+        "calories": 405,
+        "prep_time": "15 mins",
+        "dietary_tags": [
+            "fusion",
+            "spicy"
+        ],
+        "mood_tags": [
+            "comfort",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 92,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "Image of Salads & Healthy Options with cheese"
+    },
+    {
+        "product_id": "FF080",
+        "name": "Classic Protein Salads & Healthy Option",
+        "category": "Salads & Healthy Options",
+        "description": "A delicious Salads & Healthy Options with unique toppings",
+        "ingredients": [
+            "cheese",
+            "tomato",
+            "beef",
+            "lettuce"
+        ],
+        "price": 11.32,
+        "calories": 761,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "vegan",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 66,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 1,
+        "image_prompt": "Image of Salads & Healthy Options with spice"
+    },
+    {
+        "product_id": "FF081",
+        "name": "Classic Sandwiches Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with classic taste",
+        "ingredients": [
+            "onion",
+            "jalapeno",
+            "beef",
+            "tomato"
+        ],
+        "price": 12.88,
+        "calories": 787,
+        "prep_time": "13 mins",
+        "dietary_tags": [
+            "spicy",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "nuts",
+            "soy"
+        ],
+        "popularity_score": 80,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 9,
+        "image_prompt": "Image of Breakfast Items with spice"
+    },
+    {
+        "product_id": "FF082",
+        "name": "Classic Pancakes Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with unique toppings",
+        "ingredients": [
+            "onion",
+            "chicken",
+            "lettuce",
+            "mayo"
+        ],
+        "price": 14.12,
+        "calories": 580,
+        "prep_time": "5 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "spicy"
+        ],
+        "mood_tags": [
+            "comfort",
+            "healthy"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 53,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "Image of Breakfast Items with spice"
+    },
+    {
+        "product_id": "FF083",
+        "name": "Spicy Sandwiches Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with unique toppings",
+        "ingredients": [
+            "jalapeno",
+            "cheese",
+            "tomato",
+            "mayo"
+        ],
+        "price": 17.74,
+        "calories": 516,
+        "prep_time": "8 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "spicy"
+        ],
+        "mood_tags": [
+            "healthy",
+            "quick"
+        ],
+        "allergens": [
+            "soy",
+            "dairy"
+        ],
+        "popularity_score": 57,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "Image of Breakfast Items with fusion style"
+    },
+    {
+        "product_id": "FF084",
+        "name": "Classic Pancakes Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with unique toppings",
+        "ingredients": [
+            "garlic bread",
+            "chicken",
+            "beef",
+            "jalapeno"
+        ],
+        "price": 5.24,
+        "calories": 671,
+        "prep_time": "7 mins",
+        "dietary_tags": [
+            "fusion",
+            "spicy"
+        ],
+        "mood_tags": [
+            "quick",
+            "indulgent"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 91,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 2,
+        "image_prompt": "Image of Breakfast Items with cheese"
+    },
+    {
+        "product_id": "FF085",
+        "name": "Crispy Sandwiches Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with fusion flavors",
+        "ingredients": [
+            "bbq sauce",
+            "chicken",
+            "jalapeno",
+            "tomato"
+        ],
+        "price": 16.25,
+        "calories": 699,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "vegan"
+        ],
+        "mood_tags": [
+            "comfort",
+            "quick"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 67,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 9,
+        "image_prompt": "Image of Breakfast Items with cheese"
+    },
+    {
+        "product_id": "FF086",
+        "name": "Cheesy Omelettes Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with classic taste",
+        "ingredients": [
+            "cheese",
+            "onion",
+            "mayo",
+            "tomato"
+        ],
+        "price": 11.76,
+        "calories": 203,
+        "prep_time": "9 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "vegan"
+        ],
+        "mood_tags": [
+            "healthy",
+            "indulgent"
+        ],
+        "allergens": [
+            "dairy",
+            "soy"
+        ],
+        "popularity_score": 55,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 5,
+        "image_prompt": "Image of Breakfast Items with spice"
+    },
+    {
+        "product_id": "FF087",
+        "name": "Fusion Sandwiches Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with fusion flavors",
+        "ingredients": [
+            "beef",
+            "garlic bread",
+            "tomato",
+            "cheese"
+        ],
+        "price": 9.03,
+        "calories": 535,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "spicy",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 91,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 4,
+        "image_prompt": "Image of Breakfast Items with fusion style"
+    },
+    {
+        "product_id": "FF088",
+        "name": "Classic Pancakes Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with unique toppings",
+        "ingredients": [
+            "jalapeno",
+            "beef",
+            "cheese",
+            "onion"
+        ],
+        "price": 18.92,
+        "calories": 269,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "contains_gluten",
+            "spicy"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 51,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "Image of Breakfast Items with fusion style"
+    },
+    {
+        "product_id": "FF089",
+        "name": "Crispy Pancakes Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with fusion flavors",
+        "ingredients": [
+            "lettuce",
+            "mayo",
+            "chicken",
+            "garlic bread"
+        ],
+        "price": 17.95,
+        "calories": 503,
+        "prep_time": "15 mins",
+        "dietary_tags": [
+            "fusion",
+            "spicy"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [
+            "nuts",
+            "dairy"
+        ],
+        "popularity_score": 68,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 7,
+        "image_prompt": "Image of Breakfast Items with spice"
+    },
+    {
+        "product_id": "FF090",
+        "name": "Fusion Omelettes Breakfast Item",
+        "category": "Breakfast Items",
+        "description": "A delicious Breakfast Items with classic taste",
+        "ingredients": [
+            "garlic bread",
+            "onion",
+            "tomato",
+            "jalapeno"
+        ],
+        "price": 7.35,
+        "calories": 257,
+        "prep_time": "10 mins",
+        "dietary_tags": [
+            "vegan",
+            "spicy"
+        ],
+        "mood_tags": [
+            "comfort",
+            "indulgent"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 79,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "Image of Breakfast Items with cheese"
+    },
+    {
+        "product_id": "FF091",
+        "name": "Spicy Premium Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with unique toppings",
+        "ingredients": [
+            "onion",
+            "tomato",
+            "chicken",
+            "cheese"
+        ],
+        "price": 17.84,
+        "calories": 467,
+        "prep_time": "9 mins",
+        "dietary_tags": [
+            "vegan",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "comfort"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 97,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 10,
+        "image_prompt": "Image of Limited Time Specials with cheese"
+    },
+    {
+        "product_id": "FF092",
+        "name": "Crispy Fusion Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with classic taste",
+        "ingredients": [
+            "beef",
+            "jalapeno",
+            "tomato",
+            "mayo"
+        ],
+        "price": 12.85,
+        "calories": 536,
+        "prep_time": "5 mins",
+        "dietary_tags": [
+            "vegan",
+            "spicy"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "quick"
+        ],
+        "allergens": [
+            "dairy",
+            "gluten"
+        ],
+        "popularity_score": 95,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "Image of Limited Time Specials with fusion style"
+    },
+    {
+        "product_id": "FF093",
+        "name": "Cheesy Premium Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with classic taste",
+        "ingredients": [
+            "tomato",
+            "bbq sauce",
+            "cheese",
+            "garlic bread"
+        ],
+        "price": 16.31,
+        "calories": 283,
+        "prep_time": "5 mins",
+        "dietary_tags": [
+            "fusion",
+            "low_calorie"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [
+            "gluten",
+            "soy"
+        ],
+        "popularity_score": 79,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 1,
+        "image_prompt": "Image of Limited Time Specials with cheese"
+    },
+    {
+        "product_id": "FF094",
+        "name": "Fusion Premium Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with unique toppings",
+        "ingredients": [
+            "lettuce",
+            "chicken",
+            "bbq sauce",
+            "mayo"
+        ],
+        "price": 18.54,
+        "calories": 774,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "vegan"
+        ],
+        "mood_tags": [
+            "comfort",
+            "healthy"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 84,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 8,
+        "image_prompt": "Image of Limited Time Specials with fusion style"
+    },
+    {
+        "product_id": "FF095",
+        "name": "Crispy Fusion Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with classic taste",
+        "ingredients": [
+            "chicken",
+            "tomato",
+            "onion",
+            "beef"
+        ],
+        "price": 18.94,
+        "calories": 625,
+        "prep_time": "6 mins",
+        "dietary_tags": [
+            "fusion",
+            "vegan"
+        ],
+        "mood_tags": [
+            "quick",
+            "indulgent"
+        ],
+        "allergens": [
+            "nuts",
+            "gluten"
+        ],
+        "popularity_score": 55,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "Image of Limited Time Specials with fusion style"
+    },
+    {
+        "product_id": "FF096",
+        "name": "Classic Festive Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with classic taste",
+        "ingredients": [
+            "beef",
+            "jalapeno",
+            "chicken",
+            "cheese"
+        ],
+        "price": 19.77,
+        "calories": 225,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "contains_gluten"
+        ],
+        "mood_tags": [
+            "quick",
+            "comfort"
+        ],
+        "allergens": [
+            "gluten",
+            "nuts"
+        ],
+        "popularity_score": 77,
+        "chef_special": false,
+        "limited_time": false,
+        "spice_level": 2,
+        "image_prompt": "Image of Limited Time Specials with spice"
+    },
+    {
+        "product_id": "FF097",
+        "name": "Spicy Premium Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with unique toppings",
+        "ingredients": [
+            "cheese",
+            "jalapeno",
+            "chicken",
+            "beef"
+        ],
+        "price": 8.28,
+        "calories": 560,
+        "prep_time": "12 mins",
+        "dietary_tags": [
+            "vegan",
+            "spicy"
+        ],
+        "mood_tags": [
+            "quick",
+            "indulgent"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 61,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 3,
+        "image_prompt": "Image of Limited Time Specials with fusion style"
+    },
+    {
+        "product_id": "FF098",
+        "name": "Crispy Festive Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with unique toppings",
+        "ingredients": [
+            "bbq sauce",
+            "lettuce",
+            "tomato",
+            "chicken"
+        ],
+        "price": 9.93,
+        "calories": 538,
+        "prep_time": "14 mins",
+        "dietary_tags": [
+            "low_calorie",
+            "vegan"
+        ],
+        "mood_tags": [
+            "indulgent",
+            "quick"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 83,
+        "chef_special": true,
+        "limited_time": false,
+        "spice_level": 10,
+        "image_prompt": "Image of Limited Time Specials with fusion style"
+    },
+    {
+        "product_id": "FF099",
+        "name": "Crispy Premium Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with fusion flavors",
+        "ingredients": [
+            "lettuce",
+            "tomato",
+            "mayo",
+            "onion"
+        ],
+        "price": 12.94,
+        "calories": 243,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegan"
+        ],
+        "mood_tags": [
+            "comfort",
+            "quick"
+        ],
+        "allergens": [
+            "soy",
+            "nuts"
+        ],
+        "popularity_score": 67,
+        "chef_special": true,
+        "limited_time": true,
+        "spice_level": 4,
+        "image_prompt": "Image of Limited Time Specials with fusion style"
+    },
+    {
+        "product_id": "FF100",
+        "name": "Crispy Premium Limited Time Special",
+        "category": "Limited Time Specials",
+        "description": "A delicious Limited Time Specials with unique toppings",
+        "ingredients": [
+            "chicken",
+            "mayo",
+            "tomato",
+            "garlic bread"
+        ],
+        "price": 12.95,
+        "calories": 561,
+        "prep_time": "11 mins",
+        "dietary_tags": [
+            "spicy",
+            "vegan"
+        ],
+        "mood_tags": [
+            "adventurous",
+            "healthy"
+        ],
+        "allergens": [
+            "dairy",
+            "nuts"
+        ],
+        "popularity_score": 58,
+        "chef_special": false,
+        "limited_time": true,
+        "spice_level": 6,
+        "image_prompt": "Image of Limited Time Specials with fusion style"
+    }
+]
